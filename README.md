@@ -1,4 +1,4 @@
-# Image Captioning Project
+# Image Caption Generator CustomCNN+LSTM (CC22)
 
 This project focuses on creating a custom model for image captioning. It includes steps for downloading datasets, training the model, extracting image features, and generating captions for both dataset images and external images.
 
