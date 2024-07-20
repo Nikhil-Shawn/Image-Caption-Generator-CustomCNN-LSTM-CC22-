@@ -56,7 +56,7 @@ Extract the datasets to specific directories for further processing.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-captioning.git
+   git clone https://github.com/Nikhil-Shawn/Image-Caption-Generator-CustomCNN-Model-With-LSTM.git
    cd image-captioning
    ```
 
